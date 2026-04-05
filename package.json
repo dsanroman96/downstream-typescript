@@ -1,0 +1,10 @@
+{
+  "name": "downstream-typescript",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "upstream-typescript-bun": "github:dsanroman96/upstream-typescript-bun#v0.1.0",
+    "upstream-typescript-npm": "github:dsanroman96/upstream-typescript-npm#v0.1.0",
+    "upstream-generic": "github:dsanroman96/upstream-generic#v0.1.0"
+  }
+}
